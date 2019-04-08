@@ -1,0 +1,44 @@
+[
+	{
+		"Brand":"STATE",
+		"Name": "WARHAWK",
+		"Price": "$579",
+		"Colours": "N/A",
+		"Quantity": "1"
+	},
+	{
+		"Brand":"STATE",
+		"Name": "CARDINAL",
+		"Price": "$449",
+		"Colours": "N/A",
+		"Quantity": "2"
+	},
+	{
+		"Brand":"LINUS",
+		"Name": "DUTCHI 3 OR 8",
+		"Price": "$469-$849",
+		"Colours": ["#000","#fff","#f00","#00f","#228b22"],
+		"Quantity": "NO"
+	},
+	{
+		"Brand":"LINUS",
+		"Name": "MIXTE 3 OR 8",
+		"Price": "$649-$849",
+		"Colours": ["#fff","#00d8ff","#000"],
+		"Quantity": "YES"
+	},
+	{
+		"Brand":"LINUS",
+		"Name": "DUTCHI 1",
+		"Price": "$469-849",
+		"Colours": ["#000","#fff","#f00","#00f","#228b22"],
+		"Quantity": "YES"
+	},
+	{
+		"Brand":"LINUS",
+		"Name": "DOWER 1 OR 5",
+		"Price": "$599-$789",
+		"Colours": ["#fff","#000"],
+		"Quantity": "NO"
+	}
+]

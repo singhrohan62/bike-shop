@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Dokdo');
+
+.first-section {
+	padding: 0;
+}
+
+body {
+	background-color: #172528;
+}
+
+h2 {
+	margin-bottom: 0;
+	font-weight: lighter;
+	font-family: 'Dokdo', cursive;
+	color: #fff;
+}
+
+.colour-box {
+	width: 20px;
+	height: 20px;
+	padding: 10px;
+	border: 1px solid;
+}
